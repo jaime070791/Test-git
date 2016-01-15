@@ -1,0 +1,23 @@
+commit b27931955093fa804ac34c2a789fc96778fb6b75
+Author: Jaime Rubio <jimmy070791gmail.com>
+Date:   Thu Jan 14 23:13:35 2016 -0500
+
+    Change of Color to red
+
+commit 19eb53b21d163b01b6c302e577c2bd48d6fa65fe
+Author: Jaime Rubio <jimmy070791gmail.com>
+Date:   Thu Jan 14 23:05:46 2016 -0500
+
+    Change Text Header
+
+commit 9dc5455fc82949140057278328437f66ffeb8737
+Author: Jaime Rubio <jimmy070791gmail.com>
+Date:   Thu Jan 14 22:55:37 2016 -0500
+
+    Change the title
+
+commit f9a823a3bf7fa877338701e64bc46f7ada6160f6
+Author: Jaime Rubio <jimmy070791gmail.com>
+Date:   Thu Jan 14 22:52:06 2016 -0500
+
+    INITIAL
